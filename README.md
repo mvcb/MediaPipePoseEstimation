@@ -1,1 +1,1 @@
-# MediaPipePoseEstimation
+# MediaPipe Pose Estimation
